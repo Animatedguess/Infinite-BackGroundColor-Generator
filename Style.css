@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(54, 54, 54);
+  color: aliceblue;
+}
+#layout {
+  text-align: center;
+}
+#notice {
+  font-size: 28px;
+  margin-top: 100px;
+}
+h1 {
+  margin-top: 100px;
+  font-size: 48px;
+}
+#Status {
+  width: max-content;
+  margin-left: 460px;
+  margin-top: 10px;
+  font-size: 20px;
+  background-color: black;
+  align-items: center;
+}
+#result {
+  width: max-content;
+  margin-left: 420px;
+  margin-top: 20px;
+  font-size: 20px;
+  background-color: black;
+  align-items: center;
+}
+button {
+  margin-top: 20px;
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  border-radius: 20px;
+  color: rgb(173, 173, 174);
+  cursor: pointer;
+}
+#Stop {
+  margin-left: 20px;
+  background-color: darkgreen;
+}
+#Start {
+  margin-right: 20px;
+  background-color: aqua;
+}
